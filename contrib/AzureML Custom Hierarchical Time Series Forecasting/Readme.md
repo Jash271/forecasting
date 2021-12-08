@@ -44,4 +44,4 @@ Natively Azure Automl tries to fit different forecasting models and evaulates th
 
 The forecasting model with the least error is then chosen for the prediction job
 
-![Results](./Photos/Result.PNG)
+![Results](./Photos/Result.png)
