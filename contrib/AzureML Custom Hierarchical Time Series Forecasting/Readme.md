@@ -8,7 +8,7 @@ The Data under consideration is as follows:<br>
 ![Data](./Photos/Data.png)
 
 Hierarchy Order for the Data is as follows: <br>
-![Heirarchy Image](./Photos/Hierarchy.PNG)
+![Hierarchy Image](./Photos/Hierarchy.PNG)
 
 We will be predicting the Quantity for this combination of Data on daily basis for a time period of 30 days
 
