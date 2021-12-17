@@ -5,10 +5,10 @@
 This type of forecasting is used when there are multiple variable categories forming an hierarchy.
 
 The Data under consideration is as follows:<br>
-![Data](./Photos/Data.png)
+![Data](./pics/data.png)
 
 Hierarchy Order for the Data is as follows: <br>
-![Hierarchy Image](./Photos/Hierarchy.PNG)
+![Hierarchy Image](./pics/hierarchy.png)
 
 We will be predicting the Quantity for this combination of Data on daily basis for a time period of 30 days
 
@@ -44,4 +44,4 @@ Natively Azure Automl tries to fit different forecasting models and evaulates th
 
 The forecasting model with the least error is then chosen for the prediction job
 
-![Results](./Photos/Result.png)
+![Results](./pics/result.png)
